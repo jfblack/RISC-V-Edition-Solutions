@@ -58,8 +58,9 @@ Speedup penalty: 20% more ticks.
 Clock speed for 30% improvement in execution time of processor?
 
 P1
-Given:
 
+Given:
+P1 @ 3 GHz, CPI 1.5, > 3/1.5 = 2 billion instructions per second (GIPS)
 
 
 Note: Clock speed is the combination of a hardware ocillator and multipliers. The clock speed can be adjusted by BIOS settings for a single chip and the penalty is heat. In a new design, the penalty can be increased instructions.
