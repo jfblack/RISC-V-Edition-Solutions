@@ -16,23 +16,18 @@ catapults> Moore's law
 translates code to assembly language.
 translates  assembly language to machine code.
 
-
 1.4
-8x8x8x1280x1024=
-
-671088640
-
+8x8x8x1280x1024=671088640
 Six hundred and seventy one million bits > 6.71 seconds.
 
-1.5
-a.
+1.5a
 P1 @ 3 GHz, CPI 1.5, > 3/1.5 = 2 billion instructions per second (GIPS)
 P2 @ 2.5 GHz, CPI 1.0 > 2.5/1 = 2.5 billion instructions per second (GIPS)
 P3 @ 4.0 Ghz, cpi 2.2 > 4/2.2 = 1.8 billion instructions per second (GIPS)
 
 P2 is fastest.
 
-b.
+1.5b.
 P1 > 20 billion instructions
 P2 > 25 billion instructions
 P3 > 18 billion instructions
@@ -41,9 +36,9 @@ P1 > 30 billion clock cycles
 P2 > 25 billion clock cycles
 P3 > 40 billion clock cycles
 
-c.
+1.5c.
 ### Page 34 Example: 
-Clock speed for four second improvement in execution time of processor?
+_Clock speed for four second improvement in execution time of processor?
 
 Defination of Hertz: ticks/seconds=Hertz
 
@@ -55,7 +50,7 @@ Improved processor
 Speedup penalty: 20% more ticks.
 20 GigaTicks*1.2/6 seconds = 4Ghz
 
-Clock speed for 30% improvement in execution time of processor?
+_Clock speed for 30% improvement in execution time of processor?
 
 P1
 
