@@ -37,8 +37,8 @@ P2 > 25 billion clock cycles
 P3 > 40 billion clock cycles
 
 1.5c.
-### Page 34 Example: 
-_Clock speed for four second improvement in execution time of processor?
+*Page 34 Example: 
+Clock speed for four second improvement in execution time of processor?
 
 Defination of Hertz: ticks/seconds=Hertz
 
@@ -50,7 +50,7 @@ Improved processor
 Speedup penalty: 20% more ticks.
 20 GigaTicks*1.2/6 seconds = 4Ghz
 
-_Clock speed for 30% improvement in execution time of processor?
+Clock speed for 30% improvement in execution time of processor?*
 
 P1
 
