@@ -71,6 +71,7 @@ execution time: 7
 Clock Rate?
 
 
+
 Note: Clock speed is the combination of a hardware ocillator and multipliers. The clock speed can be adjusted by BIOS settings for a single chip and the penalty is heat. In a new design, the penalty can be increased instructions.
 
 
