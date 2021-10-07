@@ -1,5 +1,5 @@
 ---
-a note
+a note after some reloading
 ---
 
 ---
