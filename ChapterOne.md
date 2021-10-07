@@ -1,11 +1,4 @@
----
-a note after some reloading now pull -- second pull third pull
----
-
----
-## Answers to Chapter 1
-1.1 
-pc, warehouse, tablets, personal mobile device, 
+Pc, warehouse, super computers, and personal mobile devices are mentioned by theauthors, but for a grander view of the scope of computing have a look at the types of Linux distributions [here](https://simple.wikipedia.org/wiki/List_of_Linux_distributions)
 
 1.2
 elevators > common case 
