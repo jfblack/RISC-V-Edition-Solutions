@@ -1,8 +1,13 @@
+---
+does not show in Markdown preview
+---
+
+### Answer for Chapter One
 
 
-__1.1__Pc, warehouse, super computers, and personal mobile devices are mentioned by the authors, but for a grander view of the scope of computing have a look at the types of Linux distributions [here](https://simple.wikipedia.org/wiki/List_of_Linux_distributions)
+__1.1__   Pc, warehouse, super computers, and personal mobile devices are mentioned by the authors, but for a grander view of the scope of computing have a look at the types of Linux distributions [here](https://simple.wikipedia.org/wiki/List_of_Linux_distributions)
 
-1.2
+kjkklhkljgkhgkjijgugygyguy1.2
 elevators > common case 
 assembly lines > piplining
 nav systmes > performance via prediction
