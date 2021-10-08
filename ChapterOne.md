@@ -2,20 +2,24 @@
 does not show in Markdown preview
 ---
 
-### Answer for Chapter One
+### Proposed Answers for Chapter One
 
 
-__1.1__   Pc, warehouse, super computers, and personal mobile devices are mentioned by the authors, but for a grander view of the scope of computing have a look at the types of Linux distributions [here](https://simple.wikipedia.org/wiki/List_of_Linux_distributions)
+__1.1__
 
-kjkklhkljgkhgkjijgugygyguy1.2
-elevators > common case 
-assembly lines > piplining
-nav systmes > performance via prediction
-parallelism > suspension bridge
-memories > libary reserve desk 
-cmos >dependability via redundancy
-use abstraction> self driv
-catapults> Moore's law
+Pc, warehouse, super computers, and personal mobile devices are mentioned by the authors, but for a grander view of the scope of computing have a look at the types of Linux distributions [here](https://simple.wikipedia.org/wiki/List_of_Linux_distributions)
+
+1.2
+|          Real World         |          Computing         |
+|:---------------------------:|:--------------------------:|
+|                   Elevators | Common case                |
+|             Assembly  lines | Piplining                  |
+|           Navigtion systems | Performancd via prediction |
+|          Suspension bridge | Parallelism                |
+|        Library service desk | Memories                   |
+| Dependibility via redunancy | CMOS                       |
+|           Self driving cars | Abstraction                |
+|                   Catapults | Moore's Law                |
 
 1.3
 translates code to assembly language.
