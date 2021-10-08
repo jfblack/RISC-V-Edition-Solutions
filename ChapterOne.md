@@ -15,21 +15,37 @@ Pc, warehouse, super computers, and personal mobile devices are mentioned by the
 |                   Elevators | Common case                |
 |             Assembly  lines | Piplining                  |
 |           Navigtion systems | Performancd via prediction |
-|          Suspension bridge | Parallelism                |
+|           Suspension bridge | Parallelism                |
 |        Library service desk | Memories                   |
 | Dependibility via redunancy | CMOS                       |
 |           Self driving cars | Abstraction                |
 |                   Catapults | Moore's Law                |
 
-1.3
-translates code to assembly language.
-translates  assembly language to machine code.
 
-1.4
-8x8x8x1280x1024=671088640
+Note: Methaphor is in the eye of the beholder.
+
+__1.3__
+
+The compiler translates code to assembly language and the assembler then
+translates the assembly language to machine code.
+
+__1.4__
+
+8x8x8x1280x1024 = 671,088,640
 Six hundred and seventy one million bits > 6.71 seconds.
 
-1.5a
+__1.5__	Part a.
+
+|         Processor        |    GHz    |           CPI          |               GIPS              |
+|:------------------------:|:---------:|:----------------------:|:-------------------------------:|
+|         Processor        | GigaHertz | Cycles per Instruction | Billion Instructions per second |
+|                          |           |                        |                                 |
+|            P1            |     3     |           1.5          |                2                |
+|            P2            |    2.5    |            1           |               2.5               |
+|            P3            |     4     |           2.2          |               1.8               |
+|                          |           |                        |                                 |
+| Formula: GHZ x CPI +GIPS |           |                        |                                 |
+| Thus: P2 is fastest      |           |                        |                                 |_
 P1 @ 3 GHz, CPI 1.5, > 3/1.5 = 2 billion instructions per second (GIPS)
 P2 @ 2.5 GHz, CPI 1.0 > 2.5/1 = 2.5 billion instructions per second (GIPS)
 P3 @ 4.0 Ghz, cpi 2.2 > 4/2.2 = 1.8 billion instructions per second (GIPS)
