@@ -34,7 +34,7 @@ __1.4__
 8x8x8x1280x1024 = 671,088,640
 Six hundred and seventy one million bits > 6.71 seconds.
 
-__1.5__	Part a.
+__1.5 Part a.__
 
 |         Processor        |    GHz    |           CPI          |               GIPS              |
 |:------------------------:|:---------:|:----------------------:|:-------------------------------:|
@@ -42,17 +42,13 @@ __1.5__	Part a.
 |                          |           |                        |                                 |
 |            P1            |     3     |           1.5          |                2                |
 |            P2            |    2.5    |            1           |               2.5               |
-|            P3            |     4     |           2.2          |               1.8               |
+|            P3            |        |           2.2          |               1.8               |
 |                          |           |                        |                                 |
 | Formula: GHZ x CPI +GIPS |           |                        |                                 |
 | Thus: P2 is fastest      |           |                        |                                 |_
-P1 @ 3 GHz, CPI 1.5, > 3/1.5 = 2 billion instructions per second (GIPS)
-P2 @ 2.5 GHz, CPI 1.0 > 2.5/1 = 2.5 billion instructions per second (GIPS)
-P3 @ 4.0 Ghz, cpi 2.2 > 4/2.2 = 1.8 billion instructions per second (GIPS)
 
-P2 is fastest.
+__1.5 Part b.__
 
-1.5b.
 P1 > 20 billion instructions
 P2 > 25 billion instructions
 P3 > 18 billion instructions
@@ -61,42 +57,18 @@ P1 > 30 billion clock cycles
 P2 > 25 billion clock cycles
 P3 > 40 billion clock cycles
 
-1.5c. Note
-*Page 34 Example: 
-*Clock speed for four second improvement in execution time of processor?
+__1.5c__
 
-*Defination of Hertz: ticks/seconds=Hertz
-
-*Given processor:
-*20 GigaTicks/10 seconds = 2GHz
-
-I*mproved processor
-
-*Speedup penalty: 20% more ticks.
-*20 GigaTicks*1.2/6 seconds = 4Ghz
-
-1.5
-
-Clock speed for 30% improvement in execution time of processor?*
-
-P1
-
-Given processor: P1 @ 
-Assume 20 10^9 instructions
-2 10^9 instructions per second (GIPS)
-CPI 1.5
-execution time: 10
-Clock Rate:3  GHz
-
-Improved processor:
-Assume 2 10^9 instructions
-2 10^9 instructions per second (GIPS)
-CPI = 1.5 X 1.2
-execution time: 7
-Clock Rate?
-
-
-
+|  Processor  | execution time | Executed instructions | clock cycles per instruction | Total Clock cycles | Seconds per clock cycle | instructions per second | clock rate (clock cycles per second) |   |   |
+|:-----------:|:--------------:|:---------------------:|:----------------------------:|:------------------:|:-----------------------:|:-----------------------:|:------------------------------------:|---|---|
+|      P1     |      10.00     |        2.00E+10       |             1.50             |      3.00E+10      |         3.33E-10        |         2.00E+09        |               3.00E+09               |   |   |
+| Pi Improved |      7.00      |        2.00E+10       |             1.80             |      3.60E+10      |         1.94E-10        |         2.86E+09        |               5.14E+09               |   |   |
+|             |                |                       |                              |                    |                         |                         |                                      |   |   |
+|      P2     |      10.00     |        3.00E+10       |             1.00             |      3.00E+10      |         3.33E-10        |         2.00E+09        |               3.00E+09               |   |   |
+| P2 Improved |      7.00      |        3.00E+10       |             1.20             |      3.60E+10      |         1.94E-10        |         4.29E+09        |               5.14E+09               |   |   |
+|             |                |                       |                              |                    |                         |                         |                                      |   |   |
+|      P3     |      10.00     |        1.80E+10       |             2.20             |      1.80E+10      |         5.56E-10        |         1.80E+09        |               4.00E+09               |   |   |
+| P3 improved |      7.00      |        1.80E+10       |             2.64             |      4.75E+10      |         1.47E-10        |         2.57E+09        |               6.79E+09               |   |   |
 Note: Clock speed is the combination of a hardware ocillator and multipliers. The clock speed can be adjusted by BIOS settings for a single chip and the penalty is heat. In a new design, the penalty can be increased instructions.
 
 
