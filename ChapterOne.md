@@ -69,6 +69,7 @@ __1.5c__
 |             |                |                       |                              |                    |                         |                         |                                      |   |   |
 |      P3     |      10.00     |        1.80E+10       |             2.20             |      1.80E+10      |         5.56E-10        |         1.80E+09        |               4.00E+09               |   |   |
 | P3 improved |      7.00      |        1.80E+10       |             2.64             |      4.75E+10      |         1.47E-10        |         2.57E+09        |               6.79E+09               |   |   |
+
 Note: Clock speed is the combination of a hardware ocillator and multipliers. The clock speed can be adjusted by BIOS settings for a single chip and the penalty is heat. In a new design, the penalty can be increased instructions.
 
 
